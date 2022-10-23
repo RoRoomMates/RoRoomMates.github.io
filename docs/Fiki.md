@@ -1,13 +1,9 @@
 # Project RoomMates
-Providing a solution to the problem of finding a place to live. Either doorms or shared apartments, RoomMates is the solution for you.
+Providing a solution to the problem of finding a place to live and a roommate compatible with you. Either doorms or shared apartments, RoomMates is the solution for you.
 
-Mostly tailored for students coming from outside the city where the university is located.
+# Our Team
 
-Might not be limited to finding a room mate, but also features to help students cope with the difficulties of being in a new environment and being more productive with their university life.
-
-# Present the team and assign roles (such as FR, BE, PO, PM, etc)
-
-Roles TBD
+"Present the team and assign roles (such as FR, BE, PO, PM, etc)" 
 
 <br/>
 Macarie Răzvan Cristian
@@ -53,34 +49,44 @@ catalinptr3@gmail.com
 
 <br/>
 
-# Every newcomer student's problem
-Coming from a small town or village to a big city is challenging. Even more so if you are a student, with limited resources and / or lack of a social network.
+# The problem of finding a roommate
+Finding a new place to live is challenging. Even more so if you are coming from a small town or village to a big city and you have limited resources and lack of a social network.
 
-Whatsapp and Facebook groups are a good place to start, but they are not tailored for every need.
+Whatsapp and Facebook groups are a good place to start, but they are not tailored for every need. If you ever felt that you were not taken seriously while trying to find a roommate this is the right place to find one.
 
-Whatsapp groups are too narrow, they are a single channel for everything. It lacks a means of organizing based on topics, and finding what you need when you need it is often cumbersome.
-
-Facebook is great for networking, but it's a poor place to find non-public resources. I wouldn't recommend asking too many "stupid questions" in a public forum, and also I wouldn't advertise the place where I live, be it a dorm or a rented place.
+Have you ever had roommates not to your liking? Either too messy or too demanding or just not having the right chemistry?
 
 # RoomMates value proposition
-An easy to use site and/or mobile app that offers the key resources along with an open-minded community to help students cope with the challenges of moving to a new city and starting a new way of life.
+An easy to use web application that offers the key resources along with an open-minded community to help you cope with the challenges of moving to a new city and starting a new way of life or just changing your current roommate.
 
-Our solution helps you find a room mate, be it in a dorm at your university of choice or renting a place. In case you will be staying in a dorm, you may also find our solution helpful should you need to change your room mate for whatever reason.
+Our solution helps you find a roommate and a place to live in a dorm at your university or in rent.
 
-More than just a "Tinder for room mates", you will easily find the resources needed of your specific university in an intuitive format, unified accross all universities (that we currently support).
-
-And to top it all off, you will find a community of students that are or have gone through the same experience as you, albe to provide feedback and guidance with whatever you are struggling.
+Build your RoomMate profile along with mandatory characteristics for your roommate, for example no smokers, pets allowed, must be tidy, and so on.
 
 # Customer segment/s
-Primarily students, either bachelor, masters or even doctorates.
+Students, either bachelor, masters or even doctorates, seeking to find a new or better roommate and a place to live.
 
-Also universities that want a better representation and a great community for their students.
+Young people at the beginning of their career.
+
+Individual landlords wanting to share or rent their appartment, seeking a high occupation rate.
 
 # Competition
-TBA
+Another startup called roombuddy (roombuddy.co). Can be used to find roommates in various Romanian cities. Currently they advertise having a little over 2 500 users.
+
+There sites for finding a place to rent, but they are not specialized for finding a roommate, especially the right roommate.
+
+Among these sites are:
+* OLX.ro - a platform for buying and selling almost anything
+* Publi24.ro - another platform for adds listing
+* eproprietar.ro - a platform for finding a place to rent
+* orasultau.ro - a platform for adds listing
 
 # Your advantage over the competition
-TBD
+Our solution is specialized on finding roommates based on criteria relevant to each user.
+
+Our solution will be integrated with various universities for up to date vacancies. We can build trust based on this kind of partnership.
+
+Our application will allow chatting for matches or roommate candidates for a direct insight on their personality.
 
 # Key metrics
 TBD
