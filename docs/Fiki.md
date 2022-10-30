@@ -89,11 +89,10 @@ Our solution will be integrated with various universities for up to date vacanci
 Our application will allow chatting for matches or roommate candidates for a direct insight on their personality.
 
 # Key metrics
-TBD
+An important metric is represented by the number of visitors compared to the actual number of visitors that found a roommate or a flat to rent. These metrics can be tracked using web analytics services such as Google Analytics or Hotjar. Also, what's really important is the number of posts.
 
 # Cost structure
-TBD
+The main costs are represented by keeping the actual application up (using something like EC2) and the development.
 
 # Revenue streams
-TBD
-
+Our website will function based on the Advertising-Supported Revenue Model.
