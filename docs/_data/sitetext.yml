@@ -100,7 +100,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Gherman Maria Irina"
         role: "TBD"
-        image: assets/img/team/irina.jpg
+        image: assets/img/team/Irina.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
