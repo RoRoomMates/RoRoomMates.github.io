@@ -1,0 +1,53 @@
+!!! Inainte de interviu cititi, va rog, ce scrie aici la guidelines. !!!
+Guidelines:
+- Inregistrati audio interviul. Dupa ce terminam toti cu interviurile, vom compila un google forms cu toate raspunsurile ca sa putem extrage date.
+
+- Interviul este destinat pentru persoane care: au stat la camin, au stat la apartament in chirie sau urmeaza sa faca asta. Customerul nostru in general nu
+este acela care sta la apartament cumparat, singur sau cu parintii. Poate doar in cazul in care trebuie sa se mute in chirie.
+
+- Nu incepeti cu idea noastra, nu vorbiti despre ideea noastra (pana la finalul interviului). Spune-ti ca avem nevoie doar de niste
+raspunsurile intrebari pentru customer validation / un proiect la facultate, dar nu pentru ce e exact.
+
+- Nu acceptati raspunsuri ca atare (afirmatii, idei), daca nu contin si actiuni sau justificari pentru raspuns. 
+Puneti folow-up questions: de ce? cand ai facut asa? cum ai facut atunci? care este motivul pentru care nu ai facut asa? cum ai ajuns la concluzia ca ...? 
+ce probleme ai avut in trecut cu ...?
+Scopul ar fi ca persoanele sa dea raspunsuri cat mai elaborate si sa divagati cat mai mult pe subiect, dar sa puneti pana la urma mai toate intrebarile.
+Sunt mai multe detalii sub fiecare intrebare.
+
+- Nu puneti intrebari ipotetice (crezi ca ai face x/y?), chestii despre viitor (as putea...\deobicei...\niciodata...\voi face...)
+sau idei (ar fi interesant sa pot sa fac x/y pe aplicatie). Nu puneti astefel de intrebari si nu acceptati raspunsuri care urmaresc aceste pattern-uri. In plus, foarte important, intrebarile care urmaresc pattern-urile astea ar trebui sa fie ancorate in ceva concret:
+* Pentru ipotetice, incercati sa gasiti motivul din spate: A: Nu cred ca as folosi o aplicatie pentru a gasi chirie. Follow-up: Ai mai folosit in trecut?/Ai avut antecedente cu aplicatii similare?
+* chestiile despre viitor au cam aceleasi follow-upuri ca si ipoteticele
+* Pentru idei, incercati sa aflati de ce s-a gandit cineva la o anume idee, daca e o chestie de care chiar au nevoie sau e doar un wild tought? A: Ar fi interesant daca as putea sa caut colegi dupa distanta fata de mine (ca pe Tinder)? Follow-up: Ai folosit Tinder si te-a ajutat? Este important pentru tine sa fie cineva aproape de tine? Sau A: Nu imi plac colegii de camera. Follow-up: De ce? Ai avut experiente nasoale in trecut?
+
+In general, informatiile relevante sunt aflate din trecutul persoanei, actiuni concrete, nu din ce crede persoana ca ar face in viitor. Scopul este sa faceti persoana sa povesteasca (o intamplare) cat mai mult (de preferat din trecut), atunci se simt in largul lor si afli cele mai multe. Ordinea intrebarilor nu este foarte relevanta, puteti sa alegeti urmatoarele intrebari incat sa curga discutia natural. Puteti pune si alte intrebari asemanatoare, sau sa le adaptati la tipul de persoana (nu are rost sa intrebi de camine daca nu a stat niciodata)
+
+-- Intrebari
+1. Unde stai acum?
+2. Cu cati colegi stai?
+3. Cum ti-ai gasit colegii cu care ai stat?
+4. Esti multumit cu condiile pe care le ai acum si cu banii pe care ii platesti momentan?
+5. Vrei sa te muti in viitorul apropiat (la anu, cand termini facultatea/masterul etc)?
+	- Daca da:
+		- In ce perioada? De ce atunci?
+		- In chirie sau cumperi apartament? Singur sau cu prieteni (sau cu iubitul/iubita)?
+6. Ai mai stat cu prieteni (sau iubitul/iubita) sau colegi in general?
+	- Descrie experienta?
+	- Ai ales tu colegii sau au fost alesi la intamplare?
+	- Cum te-ai inteles cu ei?
+	- Au fost lucruri care te-au facut sa te intelegi bine/rau cu ei?
+7. Ce parere ai despre statul cu un coleg?
+8. Daca ai mai stat la camin sau in chirie, care a fost procesul prin care ti-ai primit camera, ales colegii?
+9. Cum a fost primul contact cu colegii?
+	- Discutii despre fiecare ce aduce la camin. Fiecare unde sta etc.
+10. Care au fost lucrurile habituale care te-au facut sa te intelegi bine/rau cu colegii (care au contat mai mult)?
+	- Asteptam mai intai un raspuns natural, de la persoana si discutam despre el
+	- Dupa dam noi exemple si discutam despre ele: curatenia, programul de somn, responsabilitatile casei, musafiri care vin in vizita, conflicte/certuri (daca au existat, cum s-au terminat), plata chiriei/utilitatilor (daca e cazul), interese comune, comunicatia
+11. Ce te-a deranjat cel mai mult la colegi de camera?
+12. Ce a contribuit cel mai mult la bunastarea relatiei (de colegi)?
+
+Intrebari specifice pentru elevi de a 12-a
+1. Vrei sa stai la camin sau in chirie? De ce?
+2. Ai planuit cu cine stai la camin/in chirie? 
+3. (Pentru camin) Vrei sa stai cu cunoscuti sau vrei sa gasesti oameni cu putin timp inainte?
+    - (A doua varianta) Cum vrei sa cauti colegi?
