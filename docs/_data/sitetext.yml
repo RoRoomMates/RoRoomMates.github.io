@@ -38,10 +38,10 @@ en: &DEFAULT_EN
             Another startup called [roombuddy](https://www.roombuddy.co/). Can be used to find roommates in various Romanian cities. Currently they advertise having a little over 2 500 users.
             There sites for finding a place to rent, but they are not specialized for finding a roommate, especially the right roommate.
             Among these sites are:
-          - [olx](https://www.olx.ro/): a platform for buying and selling almost anything
-          - [publi24](https://www.publi24.ro/): another platform for adds listing
-          - [eproprietar](https://eproprietar.ro/): a platform for finding a place to rent
-          - [orasultau](https://orasultau.ro/): a platform for adds listing
+            - [olx](https://www.olx.ro/): a platform for buying and selling almost anything
+            - [publi24](https://www.publi24.ro/): another platform for adds listing
+            - [eproprietar](https://eproprietar.ro/): a platform for finding a place to rent
+            - [orasultau](https://orasultau.ro/): a platform for adds listing
         icon: fab fa-markdown
 
   portfolio:
