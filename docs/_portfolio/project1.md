@@ -31,15 +31,15 @@ Young people at the beginning of their career.
 Individual landlords wanting to share or rent their appartment, seeking a high occupation rate.
 
 ## Competition
-Another startup called roombuddy (roombuddy.co). Can be used to find roommates in various Romanian cities. Currently they advertise having a little over 2 500 users.
+Another startup called [roombuddy](https://www.roombuddy.co/). Can be used to find roommates in various Romanian cities. Currently they advertise having a little over 2 500 users.
 
 There sites for finding a place to rent, but they are not specialized for finding a roommate, especially the right roommate.
 
 Among these sites are:
-* OLX.ro - a platform for buying and selling almost anything
-* Publi24.ro - another platform for adds listing
-* eproprietar.ro - a platform for finding a place to rent
-* orasultau.ro - a platform for adds listing
+* [OLX.ro](https://www.olx.ro/) - a platform for buying and selling almost anything
+* [Publi24.ro](https://www.publi24.ro/) - another platform for adds listing
+* [eproprietar.ro](https://eproprietar.ro/) - a platform for finding a place to rent
+* [orasultau.ro](https://orasultau.ro/) - a platform for adds listing
 
 ## Your advantage over the competition
 Our solution is specialized on finding roommates based on criteria relevant to each user.

@@ -9,6 +9,28 @@ caption:
   subtitle: Validation
   thumbnail: assets/img/portfolio/validation.png
 ---
+# Interviews
+These are based on guidelines which include 12 questions:
+1. Where are you living now?
+2. With how many people are you living?
+3. How did you find the people you are living with?
+4. Are you happy with your current living conditions and with the rent you are paying?
+5. Do you intend to move in the near future? If yes
+   - When? Why then?
+   - Do you intend to rent or to buy? Alone or with friends (or loved one)?
+6. Did you stay with friends, partner, or colleagues in general? If yes
+   - Describe the experience
+   - Did you choose the room mates?
+   - How did you get along with them?
+   - Were there things that made you get along well or badly?
+7. How do you feel about living with a room mate?
+8. If you lived in doorm or in rent, what was the process by which you got your room, and room mates?
+9. How was your first contact with your room mates?
+10.   What were the habitual things your room mates did that made you get along well/badly? What mattered most?
+   - Only if they get stuck, we can provide some examples: cleanliness, sleep schedule, home responsibility, visitors, conflicts/arguments, paying rent/utilities, common interests, communication
+11.   What bothered you most in your room mates?
+12.   What mattered most for getting along well with your room mates?
+
 ## How we identified the problem
 By help of social media and student circles we identified a high-level of dissatisfaction among students regarding their roommates. For many, university is a new life chapter and finding compatible roommates is a stressful challenge which can have a negative impact in emotional stability and university results.
 
