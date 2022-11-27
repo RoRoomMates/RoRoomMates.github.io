@@ -17,18 +17,31 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Project description"
+    text: "Problem. Solution / Value Proposition. Competition."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Problem"
+        desc: |
+          Finding a new place to live is challenging. Even more so if you are coming from a small town or village to a big city and you have limited resources and lack of a social network.
+          Whatsapp and Facebook groups are a good place to start, but they are not tailored for every need. If you ever felt that you were not taken seriously while trying to find a roommate this is the right place to find one.
+          Have you ever had roommates not to your liking? Either too messy or too demanding or just not having the right chemistry?
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Solution / Value Proposition"
+        desc: |
+          An easy to use web application that offers the key resources along with an open-minded community to help you cope with the challenges of moving to a new city and starting a new way of life or just changing your current roommate.
+          Our solution helps you find a roommate and a place to live in a dorm at your university or in rent.
+          Build your RoomMate profile along with mandatory characteristics for your roommate, for example no smokers, pets allowed, must be tidy, and so on.
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Competition"
+        desc: |
+            Another startup called [roombuddy](https://www.roombuddy.co/). Can be used to find roommates in various Romanian cities. Currently they advertise having a little over 2 500 users.
+            There sites for finding a place to rent, but they are not specialized for finding a roommate, especially the right roommate.
+            Among these sites are:
+          - [olx](https://www.olx.ro/): a platform for buying and selling almost anything
+          - [publi24](https://www.publi24.ro/): another platform for adds listing
+          - [eproprietar](https://eproprietar.ro/): a platform for finding a place to rent
+          - [orasultau](https://orasultau.ro/): a platform for adds listing
         icon: fab fa-markdown
 
   portfolio:
@@ -46,7 +59,18 @@ en: &DEFAULT_EN
     events:
       - title: "Milestone 1"
         year: "2022"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: |
+          Providing a solution to the problem of finding a place to live and a roommate compatible with you. Either doorms or shared apartments, RoomMates is the solution for you.
+          
+          Problem
+          Finding a new place to live is challenging. Even more so if you are coming from a small town or village to a big city and you have limited resources and lack of a social network.
+          Whatsapp and Facebook groups are a good place to start, but they are not tailored for every need. If you ever felt that you were not taken seriously while trying to find a roommate this is the right place to find one.
+          Have you ever had roommates not to your liking? Either too messy or too demanding or just not having the right chemistry?
+
+          Value Poposition
+          An easy to use web application that offers the key resources along with an open-minded community to help you cope with the challenges of moving to a new city and starting a new way of life or just changing your current roommate.
+          Our solution helps you find a roommate and a place to live in a dorm at your university or in rent.
+          Build your RoomMate profile along with mandatory characteristics for your roommate, for example no smokers, pets allowed, must be tidy, and so on.
         image: assets/img/portfolio/description-square.png
         alt:
       - title: "Milestone 2"
