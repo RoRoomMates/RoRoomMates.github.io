@@ -24,19 +24,25 @@ en: &DEFAULT_EN
       - title: "Problem"
         desc: |
           Finding a new place to live is challenging. Even more so if you are coming from a small town or village to a big city and you have limited resources and lack of a social network.
+          <br/><br/>
           Whatsapp and Facebook groups are a good place to start, but they are not tailored for every need. If you ever felt that you were not taken seriously while trying to find a roommate this is the right place to find one.
+          <br/><br/>
           Have you ever had roommates not to your liking? Either too messy or too demanding or just not having the right chemistry?
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Solution / Value Proposition"
         desc: |
           An easy to use web application that offers the key resources along with an open-minded community to help you cope with the challenges of moving to a new city and starting a new way of life or just changing your current roommate.
+          <br/><br/>
           Our solution helps you find a roommate and a place to live in a dorm at your university or in rent.
+          <br/><br/>
           Build your RoomMate profile along with mandatory characteristics for your roommate, for example no smokers, pets allowed, must be tidy, and so on.
         icon: fas fa-laptop
       - title: "Competition"
         desc: |
             Another startup called [roombuddy](https://www.roombuddy.co/). Can be used to find roommates in various Romanian cities. Currently they advertise having a little over 2 500 users.
+            <br/><br/>
             There sites for finding a place to rent, but they are not specialized for finding a roommate, especially the right roommate.
+            <br/><br/>
             Among these sites are:
             - [olx](https://www.olx.ro/): a platform for buying and selling almost anything
             - [publi24](https://www.publi24.ro/): another platform for adds listing
@@ -57,25 +63,34 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Milestone 1"
+      - title: "Milestone 1 - Project description"
         year: "2022"
-        desc: |
-          Providing a solution to the problem of finding a place to live and a roommate compatible with you. Either doorms or shared apartments, RoomMates is the solution for you.
-          
-          Problem
-          Finding a new place to live is challenging. Even more so if you are coming from a small town or village to a big city and you have limited resources and lack of a social network.
-          Whatsapp and Facebook groups are a good place to start, but they are not tailored for every need. If you ever felt that you were not taken seriously while trying to find a roommate this is the right place to find one.
-          Have you ever had roommates not to your liking? Either too messy or too demanding or just not having the right chemistry?
-
-          Value Poposition
-          An easy to use web application that offers the key resources along with an open-minded community to help you cope with the challenges of moving to a new city and starting a new way of life or just changing your current roommate.
-          Our solution helps you find a roommate and a place to live in a dorm at your university or in rent.
-          Build your RoomMate profile along with mandatory characteristics for your roommate, for example no smokers, pets allowed, must be tidy, and so on.
+        desc: "Providing a solution to the problem of finding a place to live and a roommate compatible with you. Either doorms or shared apartments, RoomMates is the solution for you."
         image: assets/img/portfolio/description-square.png
         alt:
-      - title: "Milestone 2"
+      - title: "Milestone 2 - Validation"
         year: "2022"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: |
+          Customer interviews. These are based on guidelines which include 12 questions:
+          1. Where are you living now?
+          2. With how many people are you living?
+          3. How did you find the people you are living with?
+          4. Are you happy with your current living conditions and with the rent you are paying?
+          5. Do you intend to move in the near future? If yes
+            - When? Why then?
+            - Do you intend to rent or to buy? Alone or with friends (or loved one)?
+          6. Did you stay with friends, partner, or colleagues in general? If yes
+            - Describe the experience
+            - Did you choose the room mates?
+            - How did you get along with them?
+            - Were there things that made you get along well or badly?
+          7. How do you feel about living with a room mate?
+          8. If you lived in doorm or in rent, what was the process by which you got your room, and room mates?
+          9. How was your first contact with your room mates?
+          10. What were the habitual things your room mates did that made you get along well/badly? What mattered most?
+            - Only if they get stuck, we can provide some examples: cleanliness, sleep schedule, home responsibility, visitors, conflicts/arguments, paying rent/utilities, common interests, communication
+          11. What bothered you most in your room mates?
+          12. What mattered most for getting along well with your room mates?
         image: assets/img/portfolio/validation-square.png
         alt:
         # you can enforce the alignment
