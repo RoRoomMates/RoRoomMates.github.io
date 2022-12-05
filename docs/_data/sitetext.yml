@@ -73,6 +73,23 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
+      - title: "Milestone 3 - Landing page"
+        year: "2022, Nov - Dec"
+        desc: "Our first landing page. We don't have a wireframe yet."
+        image: assets/img/portfolio/landingpage-square.png
+        alt:
+      - title: "Milestone 4 - UX"
+        year: "2022, Dec"
+        desc: "Still work in progress. We have some persona candidates, not one well defined one."
+        image: assets/img/portfolio/UX-square.png
+        alt:
+        # you can enforce the alignment
+        align: right
+      - title: "Milestone 5 - Validation 2"
+        year: "2022, Dec"
+        desc: "We have 8 interviews at this point. We've started collecting data from the landing page."
+        image: assets/img/portfolio/validation2-square.png
+        alt:
     end: "Be Part <br> of Our <br> Story!"
 
   about:
