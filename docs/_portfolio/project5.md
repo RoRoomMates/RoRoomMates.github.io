@@ -19,12 +19,26 @@ We use formspree to collect their emails.
 We're gonna measure our "funnel"...
 
 ![lead collection](../assets/img/portfolio/funnel-0.jpg)
+
+It begun, we're waiting, watching...
+
+![lead collection](../assets/img/portfolio/lead-source-6dec2022.jpg)
+
 <br/>
 
 # Analytics and Hotjar
 We've got Hotjar hooked up, we're getting recordings!
 
 ![Hotjar recording](../assets/img/portfolio/hotjar-0.jpg) 
+<br/>
+
+Click heat map
+
+![lead collection](../assets/img/portfolio/clicks-map-6dec2022.jpg)
+<br/>
+
+![lead collection](../assets/img/portfolio/desktop-vs-mobile-6dec2022.jpg)
+
 <br/>
 
 # Who we brought to the landing page
