@@ -1,3 +1,11 @@
+# How to test locally
+1. Make sure you are in docs subfolder: `cd docs`
+2. Check out github documentation for more detailed and up to date: [https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
+   1. Intall Ruby, e.g. [https://rubyinstaller.org/](https://rubyinstaller.org/)
+   2. Install bundler [https://bundler.io/](https://bundler.io/)
+   3. run `bundle install`
+   4. Run the page: `bundle exec jekyll serve`
+
 # [Agency Jekyll Theme](https://github.com/raviriley/agency-jekyll-theme) Starter Template
 [![RubyGems Downloads](https://img.shields.io/gem/dt/jekyll-agency.svg)](https://rubygems.org/gems/jekyll-agency)
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/raviriley/agency-jekyll-theme/blob/master/LICENSE.txt)
