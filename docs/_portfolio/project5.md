@@ -10,6 +10,8 @@ caption:
   thumbnail: assets/img/portfolio/validation2.png
 ---
 
+Our landing page: [https://landing-page-sigma-navy.vercel.app/](https://landing-page-sigma-navy.vercel.app/)
+
 # Lead collection section
 We use formspree to collect their emails.
 
