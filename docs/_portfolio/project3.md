@@ -15,4 +15,6 @@ Check it out at: [https://landing-page-sigma-navy.vercel.app/](https://landing-p
 We know it will evolve a lot, but it's a start!
 
 # Wireframe
-We have a mockup here: [https://www.figma.com/proto/eRCSlv9RfzqgHg361Zrx0Y/Roommates?node-id=4%3A409&scaling=min-zoom&page-id=0%3A1](https://www.figma.com/proto/eRCSlv9RfzqgHg361Zrx0Y/Roommates?node-id=4%3A409&scaling=min-zoom&page-id=0%3A1)
+We have a mockup here (first iteration): [https://www.figma.com/proto/eRCSlv9RfzqgHg361Zrx0Y/Roommates?node-id=4%3A409&scaling=min-zoom&page-id=0%3A1](https://www.figma.com/proto/eRCSlv9RfzqgHg361Zrx0Y/Roommates?node-id=4%3A409&scaling=min-zoom&page-id=0%3A1)
+
+After validation (M4): [https://www.figma.com/proto/a7fogh8EMCCu8iqaitAabk/Roommates-Revised?node-id=4%3A409&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A409](https://www.figma.com/proto/a7fogh8EMCCu8iqaitAabk/Roommates-Revised?node-id=4%3A409&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A409)

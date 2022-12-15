@@ -27,8 +27,9 @@ First (old) iteration personas:
 # User stories, use cases / user flows
 We don't have well defined use cases yet, but we have some, like one for each of the tentative personas defined above.
 
-# Wireframe
-We have a mockup here: [https://www.figma.com/proto/eRCSlv9RfzqgHg361Zrx0Y/Roommates?node-id=4%3A409&scaling=min-zoom&page-id=0%3A1](https://www.figma.com/proto/eRCSlv9RfzqgHg361Zrx0Y/Roommates?node-id=4%3A409&scaling=min-zoom&page-id=0%3A1)
+# Wireframe / mockup
+## Mockup first iteration (before validation)
+[https://www.figma.com/proto/eRCSlv9RfzqgHg361Zrx0Y/Roommates?node-id=4%3A409&scaling=min-zoom&page-id=0%3A1](https://www.figma.com/proto/eRCSlv9RfzqgHg361Zrx0Y/Roommates?node-id=4%3A409&scaling=min-zoom&page-id=0%3A1)
 
 ![Mockup 1](../assets/img/portfolio/Screenshot_mockup_1.png)
 <br/>
@@ -41,6 +42,18 @@ Notifications
 Chat
 
 ![Mockup 3](../assets/img/portfolio/Screenshot_mockup_3.png)
+
+<br/>
+
+## Mockup after validation
+
+[https://www.figma.com/proto/a7fogh8EMCCu8iqaitAabk/Roommates-Revised?node-id=4%3A409&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A409](https://www.figma.com/proto/a7fogh8EMCCu8iqaitAabk/Roommates-Revised?node-id=4%3A409&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A409)
+
+![Mockup 2-1](../assets/img/portfolio/Screenshot_mockup2_1.png)
+
+Profile
+
+![Mockup 2-2](../assets/img/portfolio/Screenshot_mockup2_2.png)
 
 # What we changed
 In the mockup we adapted a questionaire for our users, and we decided to not make it mandatory (place less emphasys on it).
