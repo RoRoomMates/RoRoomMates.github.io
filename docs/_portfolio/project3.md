@@ -15,4 +15,4 @@ Check it out at: [https://landing-page-sigma-navy.vercel.app/](https://landing-p
 We know it will evolve a lot, but it's a start!
 
 # Wireframe
-We don't have one yet. We're still heavily influenced by a previous attempt of a mobile app, so we're still debating what to keep and what to redesign.
+We have a mockup here: [https://www.figma.com/proto/eRCSlv9RfzqgHg361Zrx0Y/Roommates?node-id=4%3A409&scaling=min-zoom&page-id=0%3A1](https://www.figma.com/proto/eRCSlv9RfzqgHg361Zrx0Y/Roommates?node-id=4%3A409&scaling=min-zoom&page-id=0%3A1)
