@@ -14,15 +14,36 @@ caption:
 We had one remote interview on Discord, and we turned on our cameras. It's not much, but it's something...
 
 # User persona
-We don't have a well defined persona yet, this is still work in progress. We're analyzing the interviews and conducting others. Some of us believe we can make a few personas, two or three, each with their own workflows.
+The current user personas:
+* "Boier" - Deja locuiește undeva și caută un coleg nou
+* "Nomad" - Nu are locuință, caută coleg care are
+* "Companion" - Caută un coleg fără locuință, pentru a găsi împreună
 
-Some tentative personas:
-* "Freshman" - Coming to study in a big / bigger / different city. Has relatively low budget, first criteria usually is low rent. Most relevant criteria for their desired room mates is one of: cleanliness, living place economics, interests such as gaming or drinking, etc
-* "Respectable" - Has standards, usually done with living in dorms. Wants their own room, so a place to rent, even if looking towards the cheap end. For their desired room mates they usually have two or more criteria: cleanliness, living place economics, respecting others' quiet/sleep time, living place responsibility, already an acquaintance or friend, etc.
-* "Troubadour" - Has *negotiable* standards, usually looking for mid/low prices for rent. Wants to change living place fairly often, sometimes changing the city, sometimes the people and the place within the city, sometimes just because. Their requests from their future room mates may vary widely.
+First (old) iteration personas:
+* *"Freshman" - Coming to study in a big / bigger / different city. Has relatively low budget, first criteria usually is low rent. Most relevant criteria for their desired room mates is one of: cleanliness, living place economics, interests such as gaming or drinking, etc*
+* *"Respectable" - Has standards, usually done with living in dorms. Wants their own room, so a place to rent, even if looking towards the cheap end. For their desired room mates they usually have two or more criteria: cleanliness, living place economics, respecting others' quiet/sleep time, living place responsibility, already an acquaintance or friend, etc.*
+* *"Troubadour" - Has *negotiable* standards, usually looking for mid/low prices for rent. Wants to change living place fairly often, sometimes changing the city, sometimes the people and the place within the city, sometimes just because. Their requests from their future room mates may vary widely.*
 
 # User stories, use cases / user flows
 We don't have well defined use cases yet, but we have some, like one for each of the tentative personas defined above.
 
 # Wireframe
-We don't have a wireframe yet. We will make one for the next-next milestone, M6.
+We have a mockup here: [https://www.figma.com/proto/eRCSlv9RfzqgHg361Zrx0Y/Roommates?node-id=4%3A409&scaling=min-zoom&page-id=0%3A1](https://www.figma.com/proto/eRCSlv9RfzqgHg361Zrx0Y/Roommates?node-id=4%3A409&scaling=min-zoom&page-id=0%3A1)
+
+![Mockup 1](../assets/img/portfolio/Screenshot_mockup_1.png)
+<br/>
+
+Notifications
+
+![Mockup 2](../assets/img/portfolio/Screenshot_mockup_2.png)
+<br/>
+
+Chat
+
+![Mockup 3](../assets/img/portfolio/Screenshot_mockup_3.png)
+
+# What we changed
+In the mockup we adapted a questionaire for our users, and we decided to not make it mandatory (place less emphasys on it).
+
+![Quizz](../assets/img/portfolio/Screenshot_quiz.png)
+
