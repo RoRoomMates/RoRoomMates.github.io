@@ -11,7 +11,7 @@ caption:
 ---
 
 # Face to face interviews
-We had one remote interview on Discord, and we turned on our cameras. It's not much, but it's something...
+We had 4 interviews on the mockup. We also had one remote interview on Discord, and we turned on our cameras.
 
 # User persona
 The current user personas:
