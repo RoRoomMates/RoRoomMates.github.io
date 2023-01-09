@@ -90,6 +90,11 @@ en: &DEFAULT_EN
         desc: "We have 8 interviews at this point. We've started collecting data from the landing page."
         image: assets/img/portfolio/validation2-square.png
         alt:
+      - title: "Milestone 6 - Market Research"
+        year: "2023, Jan"
+        desc: "We looked at where our future users are, various platforms including Facebook groups."
+        image: assets/img/portfolio/marketresearch-square.png
+        alt:
     end: "Be Part <br> of Our <br> Story!"
 
   about:
