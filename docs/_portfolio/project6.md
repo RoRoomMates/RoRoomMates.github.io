@@ -38,3 +38,15 @@ Internationally, there are other platforms including some more direct competitor
 * roomster.com
 * roommates.com
 * generic add listings such as craigslist and diggz
+
+# Competitor's market share
+
+We could not find relevant information about the market share, but here are some relevant details about the most important competitors.
+
+## Roomster
+Roomster is a trusted name for people to post & search Roommates and Rooms for rent around the world.
+Their Annual Revenue is $15.0M - $25.0M. They have around 800K-1M visits per month.
+
+## Roommates
+Had to pay to find their real revenue :). They ahave around 300K visits per month.
+
