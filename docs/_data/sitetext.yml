@@ -94,7 +94,12 @@ en: &DEFAULT_EN
         year: "2023, Jan"
         desc: "We looked at where our future users are, various platforms including Facebook groups."
         image: assets/img/portfolio/marketresearch-square.png
-        alt:
+        alt: "Estimating and marketing are hard, we tried."
+      - title: "Milestone 7 - MVP"
+        year: "2023, Jan"
+        desc: "We used Discord with a bunch of people to get a feel on the interactions and their interest."
+        image: assets/img/portfolio/mvp-square.png
+        alt: "Not a finished product, but it gave us a promising outlook."
     end: "Be Part <br> of Our <br> Story!"
 
   about:
