@@ -50,3 +50,5 @@ Their Annual Revenue is $15.0M - $25.0M. They have around 800K-1M visits per mon
 ## Roommates
 Had to pay to find their real revenue :). They ahave around 300K visits per month.
 
+## Romania - OLX
+Over 1300 currently existing posts about roommates. They do not produce money from them, because they are not really selling something.
