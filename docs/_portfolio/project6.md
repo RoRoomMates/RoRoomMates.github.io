@@ -15,7 +15,7 @@ Data we collected:
 * [www.olx.ro](https://www.olx.ro) - over 1300 posts country wide seeking room mates
   * Over 20 recent posts in Bucharest alone
 * [www.oferte360.ro](https://www.oferte360.ro/) - 50 to 100 offers
-* [orasultau.ro](https://orasultau.ro/) - a couple dozen offers fairly recent adds
+* [orasultau.ro](https://orasultau.ro/) - a couple dozen offers fairly recent ads
 * [Facebook](https://www.facebook.com/) - several groups with members ranging from 1000 to almost 30 000, not easy to search and filter, you need to dig through each post
 
 In addition, there are rougthly over 400 000 students country wide, and over 125 000 students in Bucharest alone. For Bucharest way over half of them come from outside Bucharest (70% for UPB).
@@ -53,14 +53,21 @@ Had to pay to find their real revenue :). They have around 300K visits per month
 
 
 ## Romania - OLX
-Over 1300 currently existing posts about roommates. They do not produce money from them, because they are not really selling something.
+Over 1300 currently existing posts about roommates. They do not produce money directly from them because they are not really selling something, but it keeps their platform relevant and used and they show ads bringing in some revenue. They almost consistently have over 1000 fairly recently (past 2 weeks) updated ads, so we estimate about half of them to be new monthly which gives them a bit less than 1000 new users monthly which ends up to about 10 000 users yearly. Based on this estimate they own about 20% of the market.
 
 ## Romania - Bucharest Facebook groups
-On the several Facebook groups, there are several tens of daily posts
+On the several Facebook groups, there are several tens of daily posts. This is tricky to estimate, but we assume a rate of reposts of roughly 50% so we estimate 10 - 20 daily new users from our target market. This means 300 to 600 new users monthly which translates to about 3600 to 7200 users yearly. This means they have a market share of 7 to 15%.
 
-
-Considering the details presented in **The size of the market**, we can say that in Romania, OLX has the best market share: over 60%. The other competitors are just splitting the market equally.
+## Romania - other platforms such as orasultau, oferte360, publi24, okazii
+We estimate each of the smaller players to have ranging from 2% to 5% market share based on the number of "fairly recent" ads related to searching for room mates.
 
 
 # Our potential market share
-We estimate that in Romania our market share would be in the first year around 15-20%, with a big chance to increase with up to 10% per year.
+We estimate that in Romania our market share would be in the first year around 15-20%, with a big chance to increase with up to 10% per year for years 3 to 5.
+
+The main reason why we believe we can get such a big market share early on is that the market is not saturated, and most of the Total Addressable Market (TAM) is not even addresed directly by any competitor in Romania:
+* olx - 20%
+* Facebook - 15%
+* other ad platforms combined - 15%
+
+By focusing on people compatibility and only facilitating the search for the tenancy we will avoid the housing and rent market mostly and focus on our target market, which is people caring about their experience of sharing their living space with someone else for either economic, financial reasons or even for fun.
