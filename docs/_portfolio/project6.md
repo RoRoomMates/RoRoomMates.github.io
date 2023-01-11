@@ -52,3 +52,6 @@ Had to pay to find their real revenue :). They ahave around 300K visits per mont
 
 ## Romania - OLX
 Over 1300 currently existing posts about roommates. They do not produce money from them, because they are not really selling something.
+
+## Romania - Bucharest Facebook groups
+On the several Facebook groups, there are several tens of daily posts
