@@ -61,3 +61,6 @@ On the several Facebook groups, there are several tens of daily posts
 
 Considering the details presented in **The size of the market**, we can say that in Romania, OLX has the best market share: over 60%. The other competitors are just splitting the market equally.
 
+
+# Our potential market share
+We estimate that in Romania our market share would be in the first year around 15-20%, with a big chance to increase with up to 10% per year.
