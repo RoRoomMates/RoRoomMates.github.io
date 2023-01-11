@@ -48,10 +48,16 @@ Roomster is a trusted name for people to post & search Roommates and Rooms for r
 Their Annual Revenue is $15.0M - $25.0M. They have around 800K-1M visits per month.
 
 ## Roommates
-Had to pay to find their real revenue :). They ahave around 300K visits per month.
+Had to pay to find their real revenue :). They have around 300K visits per month.
+
+
 
 ## Romania - OLX
 Over 1300 currently existing posts about roommates. They do not produce money from them, because they are not really selling something.
 
 ## Romania - Bucharest Facebook groups
 On the several Facebook groups, there are several tens of daily posts
+
+
+Considering the details presented in **The size of the market**, we can say that in Romania, OLX has the best market share: over 60%. The other competitors are just splitting the market equally.
+
