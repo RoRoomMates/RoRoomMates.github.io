@@ -172,26 +172,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Monea Damian"
-        role: "TBD"
-        image: assets/img/team/damian.jfif
-        social:
-          - url: mailto:damianmonea981109@gmail.com
-            icon: far fa-envelope
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Pătrașcu Cătălin Lucian"
-        role: "TBD"
-        image: assets/img/team/Catalin.jpg
-        social:
-          - url: mailto:catalinptr3@gmail.com
-            icon: far fa-envelope
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+
 
   contact:
     title: "Contact Us"
