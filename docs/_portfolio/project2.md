@@ -76,6 +76,8 @@ Common themes found:
 ## Excerpts from customer interviews
 Note that the interviews are in Romanian, so the next section will also be in Romanian.
 
+[The audio recordings and transcripts for the interviews](https://drive.google.com/drive/folders/1mmMG1G0OwJujPL4Up4Y8SF4VJyEmZSDT?usp=share_link)
+
 ### Interview 1
 Înregistrare problematică, s-a înregistrat doar vocea intervievatorului. Câteva idei extrase:
 * nu s-a înțeles bine cu o fostă colegă:
